@@ -114,4 +114,3 @@ st.caption(
     "PROJECT SIGNAL · Sample Superstore 2015–2018 · "
     "Historical observational analysis · Built with Streamlit and Plotly"
 )
-
